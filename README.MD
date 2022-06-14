@@ -18,4 +18,6 @@ All of the site templates I create for [HTML5 UP](https://html5up.net/) are lice
 
 ... all for free, yo. In exchange, just give HTML5 UP credit for the design and tell your friends about it :)
 
+Give credits to https://github.com/cloudacademy/static-website-example 
+
 More info [here](https://html5up.net/license).
